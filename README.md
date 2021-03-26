@@ -1,2 +1,2 @@
 # OCR-OpenCV
-Identifying characters in an image using OpenCV and Python
+Optical Character Recognition on an image using OpenCV and Python
